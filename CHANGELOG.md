@@ -3,6 +3,33 @@ This is the changelog for the Fabric modpack [Fabulously Optimized](https://www.
 
 ## 1.19.4
 
+### 4.10.0-beta.1 (2023-05-02)
+
+- All 4.9.0 changes
+- Updated Sodium, Sodium Extra, Iris, Indium
+  - It is in beta because the Sodium changes may have caused mod compatibility problems (crashes, freezes etc.) and there is a known memory leak when switching dimensions (portals, hub-based servers, etc.)
+  - On the positive side, chunk rendering "up to 30% faster", plus other rendering improvements
+  - Vanilla users do not have to download Sodium separately in this version
+  - MultiMC (auto-update) will still get 4.9.0 due to above
+
+### 4.9.0 (2023-05-02)
+
+- Updated Fabric API, Farsight (CurseForge only), Mod Menu
+- Updated Greek, Russian and Chinese Traditional translations
+- Chat Reporting Helper is now separately distributed
+  - Allows non-FO users to also easily download it
+    - Will still be bundled in FO as long as it's needed  
+  - Now supports more configurations of vanilla and No Chat Reports
+  - Has a new icon
+
+  <details>
+  
+    - CF https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper
+    - MR https://modrinth.com/resourcepack/chat-reporting-helper
+    - PMC https://www.planetminecraft.com/texture-pack/chat-reporting-helper
+  
+  </details>
+
 ### 4.8.3 (2023-04-28)
 
 - Updated Entity Model Features, Fabric Language Kotlin, Fabrishot, Main Menu Credits, YetAnotherConfigLib

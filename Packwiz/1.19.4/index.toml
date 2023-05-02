@@ -10,11 +10,11 @@ hash = "4cf30e65cc64f5df736a38740e30730aba2794643e73446a786cc15535a72f1c"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "156e12c0d773bb38fea6b1354685dd48723be780e7a7450512ee9fcf793085d3"
+hash = "1780d59aeee757cd34dbd25c904f8d337ea89a2ad450496e35a6f1da965b55e0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0dee6d5d131a604d47a52453a038fe472e67b73321e6b0064902f775499eb02d"
+hash = "0a8f840c25ea6e68d7dca5ef1d3f4316a7686405c715d4a062d28f6eca502fe5"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -102,11 +102,7 @@ hash = "d7c81fae39b82fbc4be62a0fef141c7da80e96b6f97a0d80b44c245cb9a8bff6"
 
 [[files]]
 file = "resourcepacks/Mod Menu Helper.zip"
-hash = "0d56ddff450059578912e4e4c3b3e23fbfcbad292620eb066abebc3e76114ffc"
-
-[[files]]
-file = "resourcepacks/Chat Reporting Helper.zip"
-hash = "f326bd5655efdadb322c0de3381dc323c47e2067965a79748382ed6fe37c6fb1"
+hash = "d3eb6f47ca3c6630eb204078ed785de18cbd429e659153feb61df64d0b332a7b"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -185,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5b3c42c6cbf6d41ec3149435efa35e9e459a73aff589d07cd16809df3dcd9bba"
+hash = "54d74a5bf9ac44a0938ab3626a44843e4c066f4384ca3aa08b559592dd3f9ce9"
 metafile = true
 
 [[files]]
@@ -205,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "248e44131bf9ab35abdd27646066ede72f2128d51fd43150c9676d6eb5eeb64b"
+hash = "9223cf2314cb2f1bfadbae9c29773ccbfff069017d861431ed044cb3a7d0aae9"
 metafile = true
 
 [[files]]
@@ -280,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "7332dfe2de4bf26667ccdeeb6d53eb0a2f36395b3fa1601e3a9ed7afc55b277c"
+hash = "04271276ca53acaf0ff05d7ef54bbb06930faad439bb4bc55f06ebdb3dd6f82e"
 metafile = true
 
 [[files]]
@@ -346,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ccc7d4bef305b6d910eee258672518a7a1551a9ea99ed0fd1fc8a1c0581c3eff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
+hash = "2c3d4df89782788c9796fa4808f90cadcc83cc4e8bc981bba7c80d4e4c2812a3"
 metafile = true
 
 [[files]]

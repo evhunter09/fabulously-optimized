@@ -1,7 +1,7 @@
 {
     "formatVersion": 1,
     "game": "minecraft",
-    "versionId": "4.8.3",
+    "versionId": "4.9.0",
     "name": "Fabulously Optimized",
     "summary": "Improve your graphics and performance with this simple modpack.",
     "files": [
@@ -174,15 +174,15 @@
             "fileSize": 434226
         },
         {
-            "path": "mods/fabric-api-0.79.0+1.19.4.jar",
+            "path": "mods/fabric-api-0.80.0+1.19.4.jar",
             "hashes": {
-                "sha1": "86c50d213d062f4fd47fa8b97131384f50a9ad95",
-                "sha512": "118d29615d93083e59c0d39a9a0ef60cf56f7df2d19a68251fdb5a15f76c79761e0d68d13cc99b3dfc1a2ea9f709dab11a7898bff8c77435c1fd1edef9ecc178"
+                "sha1": "d1e66307336d0c6b99e9457d2088d116183533fe",
+                "sha512": "f42cd2079ac87a39b1a53f1d90e09b2cf1a2c5abe38d2c6394f34c473f105a726a04880e71bf83c022418ffc9c5334c2bf29032d1385523fef144def7d013448"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/P7dR8mSH/versions/qvrUMd9Z/fabric-api-0.79.0%2B1.19.4.jar"
+                "https://cdn.modrinth.com/data/P7dR8mSH/versions/s5UrEfIY/fabric-api-0.80.0%2B1.19.4.jar"
             ],
-            "fileSize": 1966138
+            "fileSize": 1971567
         },
         {
             "path": "mods/fabric-language-kotlin-1.9.4+kotlin.1.8.21.jar",
@@ -388,15 +388,15 @@
             "fileSize": 63315
         },
         {
-            "path": "mods/modmenu-6.2.1.jar",
+            "path": "mods/modmenu-6.2.2.jar",
             "hashes": {
-                "sha1": "e87ca1aa589c1d706830856ee1632d99adacacbf",
-                "sha512": "b9e293a119c8ced8cdf38ec2f3cb68a731cb136986982c835198eeb4266076080b840ed97bae74f177ca9ae711e0db78630e4e42b2930389e1be1813eb76860f"
+                "sha1": "186f6aecea667d94aed67187d1d70cbd01a34d54",
+                "sha512": "f7f273d96cced94c2f616c48081321b349272826df8f99ee96a3ddb2208a32871c054292702be76bb4624f901c4df0ca784fa496eea16dc7cd67702b09f2b342"
             },
             "downloads": [
-                "https://cdn.modrinth.com/data/mOgUt4GM/versions/yjjsLqbS/modmenu-6.2.1.jar"
+                "https://cdn.modrinth.com/data/mOgUt4GM/versions/iZRiOnnj/modmenu-6.2.2.jar"
             ],
-            "fileSize": 722293
+            "fileSize": 722329
         },
         {
             "path": "mods/morechathistory-1.19.1-1.1.1.jar",
@@ -546,6 +546,17 @@
                 "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar"
             ],
             "fileSize": 656151
+        },
+        {
+            "path": "resourcepacks/Chat Reporting Helper.zip",
+            "hashes": {
+                "sha1": "7fbc210e6602bf684f7b56767f17c2214f0bf445",
+                "sha512": "9679c98366a637ae710e30201c157866f369d9dfebb0734be741329e684d091fe8106407b3c9afc254f366e4327d17616aeef1f7ba90b353b6a076794fa2b84e"
+            },
+            "downloads": [
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/JXC01pGv/Chat%20Reporting%20Helper.zip"
+            ],
+            "fileSize": 18415
         },
         {
             "path": "resourcepacks/Fast Better Grass.zip",
